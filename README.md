@@ -1,13 +1,20 @@
 # eegdataset
 
-##
+## Environment setting
 Python 3.6.4 :: Anaconda custom (64-bit)
+
 tensorflow (1.7.0rc1)
+
 scikit-learn (0.19.1)
+
 numpy (1.14.2)
+
 pandas (0.22.0)
+
 Keras (2.1.5)
+
 matplotlib (2.1.0)
+
 
 ### CNN architecture:
 <img width="449" alt="WeChat8706c2bfb19e24f83076994643210f45" src="https://user-images.githubusercontent.com/55895321/158043554-0d74dab0-3a13-4b45-a7e1-34f40238011b.png">
